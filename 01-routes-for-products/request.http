@@ -1,0 +1,25 @@
+POST  http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "name": "Borracha",
+  "price": 1
+}
+
+###
+GET http://localhost:3000/products
+
+###
+GET http://localhost:3000/products/35860ee6-4e66-498e-9f0e-8018235e4e7b
+
+###
+PUT  http://localhost:3000/products/e5da0c72-79aa-4e0a-96af-b49ebb63c92c
+Content-Type: application/json
+
+{
+  "name": "Caneta Amarela",
+  "price": 3.5
+}
+
+###
+DELETE http://localhost:3000/products/e536bd8c-d88f-4c33-ba9c-f1696ed49109

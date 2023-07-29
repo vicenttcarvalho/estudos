@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Caneta Azul",
+    "price": 3,
+    "id": "23e98a84-f3b4-4d55-bc0d-d65eed16ca77"
+  },
+  {
+    "name": "Caneta Preta",
+    "price": 3,
+    "id": "35860ee6-4e66-498e-9f0e-8018235e4e7b"
+  },
+  {
+    "name": "Caneta Amarela",
+    "price": 3.5,
+    "id": "e5da0c72-79aa-4e0a-96af-b49ebb63c92c"
+  },
+  {
+    "name": "Caderno 10 matérias",
+    "price": 12,
+    "id": "a5ad2fec-4539-4dc3-9350-f1302dac991f"
+  },
+  {
+    "name": "Caderno 15 matérias",
+    "price": 17,
+    "id": "78d50d59-e748-4899-8e96-69001682c0e4"
+  },
+  {
+    "name": "Tesoura sem ponta",
+    "price": 5,
+    "id": "c5a34f9d-3d65-4e4a-9469-31fe10fa8638"
+  },
+  {
+    "name": "Borracha",
+    "price": 1,
+    "id": "e7fc78de-4ecd-4329-9911-ae1c6d056763"
+  }
+]
